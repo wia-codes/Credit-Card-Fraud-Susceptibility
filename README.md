@@ -1,6 +1,8 @@
 # Credit-Card-Fraud-Susceptibility
 
-This is a machine learning-based web app that predicts the susceptibility of credit card transactions to fraud using transaction amount, age, and gender as key features. The project leverages the Kaggle dataset "Credit Card Transactions Fraud Detection" and is implemented using a Streamlit app for showcasing real-time predictions and fraud analysis.
+## Overview
+
+This machine learning-based web app predicts the susceptibility of credit card transactions to fraud using transaction amount, age, and gender as key features. The project leverages the Kaggle dataset "Credit Card Transactions Fraud Detection" and is implemented using a Streamlit app for showcasing real-time predictions and fraud analysis.
 
 ## Features
 
